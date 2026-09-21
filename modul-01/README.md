@@ -7,7 +7,7 @@
 ---
 
 ## 1. Problem Statement
-> Membuat program untuk mewnghitung konversi suhu Celsius-Reamur-Fareinheit
+> Membuat program untuk menghitung konversi suhu Celsius-Reamur-Fareinheit
 
 ## 2. Mathematical Equation
 > $$R = \frac{4}{5} \times C$$
